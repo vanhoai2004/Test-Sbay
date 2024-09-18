@@ -180,11 +180,12 @@ nav .container .navbar-collapse ul li a:hover {
     padding: 40px;
     background-color: #11749e;
     color: white;
-    text-align: center;
 }
 .info-2 i {
     font-size: 3em;
-    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* footer */
